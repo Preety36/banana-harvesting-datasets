@@ -24,6 +24,18 @@ This repository provides a Python script to download and extract banana-related 
 python download_datasets.py
 
 
+## Dataset Links and DOIs
 
+**Detection Dataset**  
+*Banana Bunch Detection Dataset*  
+Zenodo - [https://doi.org/10.5281/zenodo.15642838](https://doi.org/10.5281/zenodo.15642838)
+
+**Harvesting Classification Dataset**  
+*Banana Bunch Harvesting Dataset*  
+Mendeley - [https://doi.org/10.17632/kjrsb7ztr9.1](https://doi.org/10.17632/kjrsb7ztr9.1)
+
+**Expert Opinion Dataset**  
+*Banana Bunch Harvesting Expert Dataset*  
+Mendeley - [https://doi.org/10.17632/kk88rgfr55.1](https://doi.org/10.17632/kk88rgfr55.1)
 
 
