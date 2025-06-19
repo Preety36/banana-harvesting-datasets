@@ -20,7 +20,7 @@ This repository provides a Python script to download and extract banana-related 
    pip install requests
 
 3. Run the script:
-
+```bash
 python download_datasets.py
 
 ## Dataset Links and DOIs
