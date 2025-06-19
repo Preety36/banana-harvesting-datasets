@@ -23,8 +23,9 @@ This repository provides a Python script to download and extract banana-related 
 ```bash
 python download_datasets.py
 
+---
 
-## Dataset Links and DOIs
+### Dataset Links and DOIs
 
 **Detection Dataset**  
 *Banana Bunch Detection Dataset*  
