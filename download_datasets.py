@@ -7,17 +7,17 @@ from zipfile import ZipFile
 datasets = [
     {
         "name": "Detection Dataset",
-        "url": "https://zenodo.org/record/15642838/files/detection-dataset.zip?download=1",
+        "url": "https://zenodo.org/records/15642838/files/Dataset.zip?download=1",
         "filename": "detection-dataset.zip"
     },
     {
         "name": "Harvesting Classification Dataset",
-        "url": "https://data.mendeley.com/public-files/datasets/kjrsb7ztr9/1/files/bundled?download=1",
+        "url": "https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/kjrsb7ztr9-1.zip",
         "filename": "harvesting-classification-dataset.zip"
     },
     {
         "name": "Expert Opinion Dataset",
-        "url": "https://data.mendeley.com/public-files/datasets/kk88rgfr55/1/files/bundled?download=1",
+        "url": "https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/kk88rgfr55-1.zip",
         "filename": "expert-opinion-dataset.zip"
     }
 ]
