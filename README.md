@@ -7,6 +7,9 @@ This repository provides a Python script to download and extract banana-related 
 - Detection Dataset  
 - Harvesting Classification Dataset  
 - Expert Opinion Dataset
+## One-Click Download All
+
+<a href="https://github.com/Preety36/banana-harvesting-datasets/blob/master/download_datasets.py" download style="display:inline-block; padding:12px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">⬇ Download All Datasets </a>
 
 ## How to Use
 
