@@ -14,18 +14,19 @@ This repository provides a Python script to download and extract banana-related 
    ```bash
    git clone https://github.com/Preety36/banana-harvesting-datasets.git
    cd banana-harvesting-datasets
+   ```
 
 2. Install the required library:
    ```bash
    pip install requests
+   ```
 
 3. Run the script:
-```bash
-python download_datasets.py
+   ```bash
+   python download_datasets.py
+   ```
 
----
-
-### Dataset Links and DOIs
+## Dataset Links and DOIs
 
 **Detection Dataset**  
 *Banana Bunch Detection Dataset*  
@@ -38,5 +39,4 @@ Mendeley - [https://doi.org/10.17632/kjrsb7ztr9.1](https://doi.org/10.17632/kjrs
 **Expert Opinion Dataset**  
 *Banana Bunch Harvesting Expert Dataset*  
 Mendeley - [https://doi.org/10.17632/kk88rgfr55.1](https://doi.org/10.17632/kk88rgfr55.1)
-
 
