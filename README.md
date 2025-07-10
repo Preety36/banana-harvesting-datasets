@@ -29,6 +29,10 @@ This repository provides a Python script to download and extract banana-related 
    ```bash
    python download_datasets.py
    ```
+### 📁 Additional Files and Description
+
+-  <a href="https://github.com/Preety36/banana-harvesting-datasets/blob/master/Bunch_detection_dataset_annotations.csv" download style="display:inline-block; padding:12px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">Bunch_detection_dataset_annotations.csv </a>: YOLO-format annotations for the Detection Dataset in `.csv` format (filename, class ID, bounding box coordinates).  
+- **Expert Opinion Dataset Tool Description**: A detailed explanation and interface for the Expert Opinion Dataset is available at: https://github.com/S2Mostafa/HarvesterOpinion 
 
 ## Dataset Links and DOIs
 
